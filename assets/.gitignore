@@ -1,0 +1,6 @@
+# exclude all except specific files
+*
+
+# list of files to keep
+!.gitignore
+!test_data.h5
